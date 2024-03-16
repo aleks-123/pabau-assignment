@@ -6,7 +6,7 @@ This repository contains a solution for the Pabau Challenge, which involves navi
 
 1. Clone the repository to your local machine:
    git clone https://github.com/aleks-123/pabau-assignment.git
-2. Navigate into the project directory: cd pabau-challenge
+2. Navigate into the project directory: cd pabau-assignment
 3. Install dependencies: npm install
 
 ## Usage
